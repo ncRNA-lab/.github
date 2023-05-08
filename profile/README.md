@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+This is the GitHub repository of the ncRNAlab, Gustavo Gomez's lab at I2SysBio (📍 Valencia, Spain).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Know more: https://www.ncrnalab.com/
