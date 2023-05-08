@@ -1,6 +1,6 @@
 ### 🧬 Non-Coding RNA-mediated Regulatory Networks Lab
 
-Welcome to the Non-Coding RNA-mediated Regulatory Networks Lab at the (Institute for Integrative Systems Biology)[https://www.uv.es/institute-integrative-systems-biology-i2sysbio/en/institute-integrative-systems-biology-i-sysbio.html] in 📍Valencia, Spain. Our research focuses on deciphering the regulatory pathways mediated by non coding RNAs (mainly small ncRNAs) for a better understanding of the molecular mechanisms that allow crops to respond and eventually adapt to biotic and abiotic stress conditions.
+Welcome to the Non-Coding RNA-mediated Regulatory Networks Lab at the [Institute for Integrative Systems Biology](https://www.uv.es/institute-integrative-systems-biology-i2sysbio/en/institute-integrative-systems-biology-i-sysbio.html) in 📍Valencia, Spain. Our research focuses on deciphering the regulatory pathways mediated by non coding RNAs (mainly small ncRNAs) for a better understanding of the molecular mechanisms that allow crops to respond and eventually adapt to biotic and abiotic stress conditions.
 
 This repository contains code, scripts, and data produced by our lab. Our lab's website can be found at https://www.ncrnalab.com/.
 
