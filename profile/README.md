@@ -4,7 +4,5 @@ Welcome to the Non-Coding RNA-mediated Regulatory Networks Lab at the [Institute
 
 This repository contains code, scripts, and data produced by our lab. Our lab's website can be found at https://www.ncrnalab.com/.
 
-Please contact Julia Corell (julia.corell@csic.es) for any questions or comments.
-
 Thank you for your interest in our work! 🙏
 
